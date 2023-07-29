@@ -1,7 +1,8 @@
 # Exploratory Data Analysis Using SQL
 
 ### An Analysis of the FIFA22 Players Dataset
-
+<p align='center'> ![image](https://images.unsplash.com/photo-1633412802994-5c058f151b66?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=580&q=80)
+</p>
 ---
 
 Exploratory Data Analysis(EDA) is a crucial first step in the data analysis process. it invloves the use of various techniques, tools, <br> and visualization to understand the structure, patterns, and characteristics of a data-set. The primary goal of EDA is to gain <br> insights from the data, identify patterns and trends, detect anomalies, and prepare the data for further analysis and modeling.
